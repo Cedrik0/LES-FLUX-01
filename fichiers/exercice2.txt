@@ -1,0 +1,6 @@
+Les flux
+Les fichiers
+ce cours concerne l'apprentissage des flux en jouant avec les fichiers
+Les sockets
+Concernant les sockets:
+ce qui est interressant c'est le fait de pouvoir echanger des informations sans être dans le même environnement
