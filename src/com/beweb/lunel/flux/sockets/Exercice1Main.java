@@ -53,9 +53,10 @@ public class Exercice1Main {
             out.flush();
             System.out.println(ligne);
         }
-        // fermeture des canaux
+        
         out.println("Merci de votre visite");
         out.flush();
+        // fermeture des canaux
         buffReader.close();
         reader.close();
         in.close();
